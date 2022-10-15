@@ -1,0 +1,2 @@
+core        73308
+packages    146887
